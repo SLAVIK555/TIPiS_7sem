@@ -4,7 +4,7 @@ from matplotlib import pyplot as plt
 
 ### прочие параметры
 h0=0
-p0=100000
+p0=101325
 #p0kg=1
 g=9.8
 Mmol=0.029
